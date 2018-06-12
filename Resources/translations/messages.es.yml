@@ -1,0 +1,11 @@
+# This file is part of the Runroom/Archetype-Symfony.
+# (c) Runroom
+
+runroomUi:
+  messages:
+    info: "Información"
+    success: ""
+    error: "Error"
+  breadcrumbs:
+    root: "Inicio"
+    title: "You are here"
