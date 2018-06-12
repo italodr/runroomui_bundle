@@ -1,5 +1,5 @@
 {
-  "name": "runroom/ui-bundle",
+  "name": "runroomui-bundle",
   "type": "symfony-bundle",
   "description": "Generic UI bundle for Runroom/Archetype-Symfony.",
   "keywords": [
