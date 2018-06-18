@@ -11,7 +11,7 @@
 
 declare(strict_types=1);
 
-namespace Runroom\Bundle\UiBundle\DependencyInjection;
+namespace RunroomUi\Bundle\UiBundle\DependencyInjection;
 
 use Symfony\Component\Config\FileLocator;
 use Symfony\Component\DependencyInjection\ContainerBuilder;

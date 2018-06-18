@@ -1,5 +1,5 @@
 suites:
     main:
-        namespace: Runroom\Bundle\UiBundle
-        psr4_prefix: Runroom\Bundle\UiBundle
+        namespace: RunroomUi\Bundle\UiBundle
+        psr4_prefix: RunroomUi\Bundle\UiBundle
         src_path: .

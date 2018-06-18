@@ -4,6 +4,6 @@ services:
     autoconfigure: true
     public: false
 
-  Runroom\Bundle\UiBundle\Twig\PercentageExtension:
+  RunroomUi\Bundle\UiBundle\Twig\PercentageExtension:
     public: false
     tags: ['twig.extension']

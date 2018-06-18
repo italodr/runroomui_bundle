@@ -11,7 +11,7 @@
 
 declare(strict_types=1);
 
-namespace Runroom\Bundle\UiBundle;
+namespace RunroomUi\Bundle\UiBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

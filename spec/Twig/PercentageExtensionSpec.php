@@ -11,7 +11,7 @@
 
 declare(strict_types=1);
 
-namespace spec\Runroom\Bundle\UiBundle\Twig;
+namespace spec\RunroomUi\Bundle\UiBundle\Twig;
 
 use PhpSpec\ObjectBehavior;
 

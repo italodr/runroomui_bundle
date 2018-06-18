@@ -11,7 +11,7 @@
 
 declare(strict_types=1);
 
-namespace Runroom\Bundle\UiBundle\Twig;
+namespace RunroomUi\Bundle\UiBundle\Twig;
 
 class PercentageExtension extends \Twig_Extension
 {
