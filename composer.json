@@ -35,7 +35,7 @@
   },
   "autoload": {
     "psr-4": {
-      "RunroomUi\\Bundle\\UiBundle\\": ""
+      "": ""
     }
   },
   "minimum-stability": "dev",
